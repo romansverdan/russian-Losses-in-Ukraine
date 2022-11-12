@@ -2,7 +2,7 @@
  Daily data of russian loses in Ulraine since the February 24, 2022. Data source @GeneralStaffUA
 
 CSV file includes:
-Date. 
+Date.\
 Day number. 
 Personnel	losses. 
 Tanks losses. 
