@@ -11,9 +11,9 @@ CSV file includes:\
 ⊛ MLRS	losses\
 ⊛ Anti-aircrafts warfare systems	losses (aaws)\
 ⊛ Aircrafts	losses\
-⊛ Helicopters	losses\ 
+⊛ Helicopters	losses \
 ⊛ UAV operational-tactical level	losses\
 ⊛ Cruise missiles	losses\
 ⊛ Warships	losses\
 ⊛ Vehicles and fuel tanks	losses\
-⊛ Special equipment losses\
+⊛ Special equipment losses
