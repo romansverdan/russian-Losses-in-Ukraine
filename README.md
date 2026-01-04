@@ -46,14 +46,6 @@ This repository uses **GitHub Actions** to automatically:
 
 ---
 
-## 📝 Usage
-
-You can use this data for:
-
-- Analysis and visualization in Python, R, Excel, etc.  
-- Loading into databases (SQLite, DuckDB, PostgreSQL)  
-- Sharing or embedding in dashboards  
-
 ## 📝 Notes
 
 - All numbers are cumulative totals reported for each day.
